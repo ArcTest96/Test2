@@ -26,7 +26,7 @@ namespace Test2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Boton puesto desde la casa house");
+            MessageBox.Show("Boton puesto desde la casa house, xd.");
         }
     }
 }
