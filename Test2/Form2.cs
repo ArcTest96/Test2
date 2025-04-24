@@ -26,7 +26,7 @@ namespace Test2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Button clicked in Form2");
+            MessageBox.Show("Button clicked in Form2 de saludo xd");
         }
     }
 }
