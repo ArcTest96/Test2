@@ -19,6 +19,7 @@ namespace Test2
 
         private void button1_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Button clicked in Form3");
             Form2 form2 = new Form2();
             form2.ShowDialog();
         }
