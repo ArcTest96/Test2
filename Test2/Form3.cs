@@ -23,5 +23,10 @@ namespace Test2
             Form2 form2 = new Form2();
             form2.ShowDialog();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Boton puesto desde la casa house, xd.");
+        }
     }
 }
